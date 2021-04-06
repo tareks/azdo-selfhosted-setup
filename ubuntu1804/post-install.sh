@@ -25,4 +25,4 @@ dpkg -i packages-microsoft-prod.deb
 apt-get install -y apt-transport-https
 apt-get update
 add-apt-repository universe
-apt-get install -y powershell dotnet-sdk-5.0 dotnet-sdk-2.2
+apt-get install -y powershell dotnet-sdk-5.0 dotnet-sdk-3.1
